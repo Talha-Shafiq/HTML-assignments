@@ -1,0 +1,104 @@
+<html>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<head>
+<title>
+My Web Page
+</title>
+<style type="text/css">
+h1{border:2px solid; background-color:orange;}
+li{
+display:inline;
+padding-left:150px;
+padding-right:20px;
+}
+</style>
+</head>
+<body>
+ <h1> Talha Shafiq 
+<div class="col-md-4" align="right" >
+<div class="row right-top">
+
+<a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+
+<a href="https://twitter.com/?lang=en"> <i class="fa fa-twitter"></i></a>
+
+<a href="www.gamail.com"><i class="fa fa-envelope"></i></a>
+       </div>
+      </div>
+   </h1>
+   </body>
+
+<img src="12271209_1001329023264436_783119019_o" atl="JPEG image (.jpg)" height="400" width="1348" border="1px">
+<ul>
+<li>
+<a href="Myweb1.html">About me</a>
+</li>
+<li>
+<a href="Myweb1.html">Programming skills</a>
+</li>
+<li>
+<a href="Myweb1.html">Hobbies</a>
+</li>
+<li>
+<a href="Myweb1.html">Contact me</a>
+</li>
+</ul>
+<a href="Myweb1.html">
+<h2>
+About me</a>
+<h4>
+My name is Talha Shafiq. I am from Bahawalpur. I am donig Bs program in 'IT' from Islamia university Bahawalpur.
+</h4>
+</h2>
+<h2>
+<a href="Myweb1.html">
+Programming skills</a>
+</h2>
+<li>
+1. Java<br></li>
+<li>
+2. CSS<br></li>
+<li>
+3. C++<br></li>
+<li>
+4. SQL<br></li>
+<li>
+5. HTML<br></li>
+<li>
+6. C Sharp<br></li>
+<h2>
+<a href="Myweb1.html">
+Hobbies</a>
+</h2>
+<li>
+1. playing snooker<br></li>
+<li>
+2. playing fotball<br></li>
+<li>
+3. playing cricket<br></li>
+<li>
+And what i want to do.<br></li>
+<h2>
+<a href="Myweb1.html">
+Contact me</a>
+</h2>
+<h3>
+Adress:</h3>
+House# A-75,Street# 3<br>
+Haslipur, Distt. BWp<br>
+EMAIL: you@gmail.com<br>
+Facebook: https://www.facebook.com/talha233<br>
+Phone: 0301-7735989<br>
+Email
+<input type="text">
+</h4>
+<h4>
+Message
+<br>
+&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;<textarea name="message" rows="8" cols="120">
+Your message please 
+</textarea>
+<pre>&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;<input type="submit" value="Submit">&nbsp&nbsp;&nbsp&nbsp;<input type="submit" value="Reset">
+</pre>
+</body>
+</html>
